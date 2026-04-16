@@ -1,10 +1,4 @@
 name: Hello World Pipeline
-on:
-push:
-branches: [ main ]
-jobs:
-hello-job:
-runs-on: ubuntu-latestname: Hello World Pipeline
 
 on:
   push:
